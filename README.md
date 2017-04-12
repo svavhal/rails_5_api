@@ -1,24 +1,3 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# rails_5_api
+Rails 5 API only application
+This how-to guide aims to help you get started the right way using Rails 5 to build the perfect API. Thanks to the new rails-api gem that ships as part of the Rails 5 core, Rails is now an ideal candidate for building streamlined APIs quickly and easily.
